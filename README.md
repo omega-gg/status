@@ -1,4 +1,4 @@
-# [Sky](https://github.com/omega-gg/3rdparty)
+# [3rdparty](https://github.com/omega-gg/3rdparty)
 [![azure](https://dev.azure.com/bunjee/3rdparty/_apis/build/status/omega-gg.3rdparty)](https://dev.azure.com/bunjee/3rdparty/_build)
 
 # [Sky](https://github.com/omega-gg/Sky)

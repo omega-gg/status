@@ -9,3 +9,12 @@
 [![travis](http://api.travis-ci.org/omega-gg/MotionBox.svg)](http://travis-ci.org/omega-gg/MotionBox)
 [![appveyor](http://ci.appveyor.com/api/projects/status/ct0kbo659jviskec?svg=true)](http://ci.appveyor.com/project/3unjee/motionbox)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+
+# Qt build
+[![azure](https://dev.azure.com/bunjee/Qt/_apis/build/status/omega-gg.Qt)](https://dev.azure.com/bunjee/Qt/_build)
+
+# libtorrent build
+[![azure](https://dev.azure.com/bunjee/libtorrent/_apis/build/status/omega-gg.libtorrent)](https://dev.azure.com/bunjee/libtorrent/_build)
+
+# launcher
+[![azure](https://dev.azure.com/bunjee/launcher/_apis/build/status/3unjee.launcher)](https://dev.azure.com/bunjee/launcher/_build)

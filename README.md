@@ -22,6 +22,9 @@
 # [libtorrent build](https://github.com/omega-gg/libtorrent)
 [![azure](https://dev.azure.com/bunjee/libtorrent/_apis/build/status/omega-gg.libtorrent)](https://dev.azure.com/bunjee/libtorrent/_build)
 
+# [docker images](https://github.com/omega-gg/docker)
+[![azure](https://dev.azure.com/bunjee/docker/_apis/build/status/omega-gg.docker)](https://dev.azure.com/bunjee/docker/_build)
+
 # [QuickWindow](https://github.com/3unjee/QuickWindow)
 [![azure](https://dev.azure.com/bunjee/QuickWindow/_apis/build/status/3unjee.QuickWindow)](https://dev.azure.com/bunjee/QuickWindow/_build)
 [![appveyor](http://ci.appveyor.com/api/projects/status/d553ojt2rtj39jhh?svg=true)](http://ci.appveyor.com/project/3unjee/quickwindow)

@@ -9,9 +9,11 @@
 
 # [HelloConsole](https://github.com/omega-gg/HelloConsole)
 [![azure](https://dev.azure.com/bunjee/HelloConsole/_apis/build/status/omega-gg.HelloConsole)](https://dev.azure.com/bunjee/HelloConsole/_build)
+[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [HelloSky](https://github.com/omega-gg/HelloSky)
 [![azure](https://dev.azure.com/bunjee/HelloSky/_apis/build/status/omega-gg.HelloSky)](https://dev.azure.com/bunjee/HelloSky/_build)
+[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [MotionBox](https://github.com/omega-gg/MotionBox)
 [![azure](https://dev.azure.com/bunjee/MotionBox/_apis/build/status/omega-gg.MotionBox)](https://dev.azure.com/bunjee/MotionBox/_build)

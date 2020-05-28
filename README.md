@@ -21,8 +21,8 @@
 [![appveyor](http://ci.appveyor.com/api/projects/status/ct0kbo659jviskec?svg=true)](http://ci.appveyor.com/project/3unjee/motionbox)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
-# [ALVR2](https://github.com/omega-gg/ALVR2)
-[![azure](https://dev.azure.com/bunjee/ALVR2/_apis/build/status/omega-gg.ALVR2)](https://dev.azure.com/bunjee/ALVR2/_build)
+# [HEVR](https://github.com/omega-gg/HEVR)
+[![azure](https://dev.azure.com/bunjee/HEVR/_apis/build/status/omega-gg.HEVR)](https://dev.azure.com/bunjee/HEVR/_build)
 
 # [libtorrent build](https://github.com/omega-gg/libtorrent)
 [![azure](https://dev.azure.com/bunjee/libtorrent/_apis/build/status/omega-gg.libtorrent)](https://dev.azure.com/bunjee/libtorrent/_build)

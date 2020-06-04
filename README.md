@@ -1,6 +1,8 @@
 # [3rdparty](https://github.com/omega-gg/3rdparty)
 [![azure](https://dev.azure.com/bunjee/3rdparty/_apis/build/status/omega-gg.3rdparty)](https://dev.azure.com/bunjee/3rdparty/_build)
 
+# [assets](https://github.com/omega-gg/assets)
+
 # [Sky](https://github.com/omega-gg/Sky)
 [![azure](https://dev.azure.com/bunjee/Sky/_apis/build/status/omega-gg.Sky)](https://dev.azure.com/bunjee/Sky/_build)
 [![travis](http://api.travis-ci.org/omega-gg/Sky.svg)](http://travis-ci.org/omega-gg/Sky)
@@ -20,6 +22,8 @@
 [![travis](http://api.travis-ci.org/omega-gg/MotionBox.svg)](http://travis-ci.org/omega-gg/MotionBox)
 [![appveyor](http://ci.appveyor.com/api/projects/status/ct0kbo659jviskec?svg=true)](http://ci.appveyor.com/project/3unjee/motionbox)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+
+# [backend](https://github.com/omega-gg/backend)
 
 # [HEVR](https://github.com/omega-gg/HEVR)
 [![azure](https://dev.azure.com/bunjee/HEVR/_apis/build/status/omega-gg.HEVR)](https://dev.azure.com/bunjee/HEVR/_build)

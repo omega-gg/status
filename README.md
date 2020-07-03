@@ -23,6 +23,8 @@
 [![appveyor](https://ci.appveyor.com/api/projects/status/ct0kbo659jviskec?svg=true)](https://ci.appveyor.com/project/3unjee/motionbox)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
+# [MotionMonkey](https://github.com/omega-gg/MotionMonkey)
+
 # [backend](https://github.com/omega-gg/backend)
 
 # [HEVR](https://github.com/omega-gg/HEVR)

@@ -24,7 +24,7 @@
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [MotionMonkey](https://github.com/omega-gg/MotionMonkey)
-[![azure](https://dev.azure.com/bunjee/MotionMonkey/_apis/build/status/omega-gg.MotionMonkey?branchName=master)](https://dev.azure.com/bunjee/MotionMonkey/_build)
+[![azure](https://dev.azure.com/bunjee/MotionMonkey/_apis/build/status/omega-gg.MotionMonkey)](https://dev.azure.com/bunjee/MotionMonkey/_build)
 
 # [backend](https://github.com/omega-gg/backend)
 

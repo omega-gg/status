@@ -27,6 +27,8 @@
 [![azure](https://dev.azure.com/bunjee/MotionMonkey/_apis/build/status/omega-gg.MotionMonkey)](https://dev.azure.com/bunjee/MotionMonkey/_build)
 
 # [clientVBML](https://github.com/omega-gg/clientVBML)
+[![azure](https://dev.azure.com/bunjee/clientVBML/_apis/build/status/omega-gg.clientVBML)](https://dev.azure.com/bunjee/clientVBML/_build)
+[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [backend](https://github.com/omega-gg/backend)
 

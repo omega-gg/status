@@ -26,6 +26,8 @@
 # [MotionMonkey](https://github.com/omega-gg/MotionMonkey)
 [![azure](https://dev.azure.com/bunjee/MotionMonkey/_apis/build/status/omega-gg.MotionMonkey)](https://dev.azure.com/bunjee/MotionMonkey/_build)
 
+# [clientVBML](https://github.com/omega-gg/clientVBML)
+
 # [backend](https://github.com/omega-gg/backend)
 
 # [HEVR](https://github.com/omega-gg/HEVR)

@@ -16,6 +16,7 @@
 
 # [HelloSky](https://github.com/omega-gg/HelloSky)
 [![azure](https://dev.azure.com/bunjee/HelloSky/_apis/build/status/omega-gg.HelloSky)](https://dev.azure.com/bunjee/HelloSky/_build)
+[![appveyor](https://ci.appveyor.com/api/projects/status/yto6yi6aepvvl805?svg=true)](https://ci.appveyor.com/project/3unjee/HelloSky)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [MotionBox](https://github.com/omega-gg/MotionBox)
@@ -29,6 +30,7 @@
 
 # [clientVBML](https://github.com/omega-gg/clientVBML)
 [![azure](https://dev.azure.com/bunjee/clientVBML/_apis/build/status/omega-gg.clientVBML)](https://dev.azure.com/bunjee/clientVBML/_build)
+[![appveyor](https://ci.appveyor.com/api/projects/status/nc4cf1k90abftiyj?svg=true)](https://ci.appveyor.com/project/3unjee/clientVBML)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 # [backend](https://github.com/omega-gg/backend)

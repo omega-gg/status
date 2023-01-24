@@ -6,7 +6,7 @@
 # [Sky](https://github.com/omega-gg/Sky)
 [![azure](https://dev.azure.com/bunjee/Sky/_apis/build/status/omega-gg.Sky)](https://dev.azure.com/bunjee/Sky/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/86v4f4gv95u68w18?svg=true)](https://ci.appveyor.com/project/3unjee/sky)
-[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+[![LGPLv3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://www.gnu.org/licenses/lgpl.html)
 
 # [HelloConsole](https://github.com/omega-gg/HelloConsole)
 [![azure](https://dev.azure.com/bunjee/HelloConsole/_apis/build/status/omega-gg.HelloConsole)](https://dev.azure.com/bunjee/HelloConsole/_build)

@@ -3,6 +3,9 @@
 
 # [assets](https://github.com/omega-gg/assets)
 
+# [snap](https://github.com/omega-gg/snap)
+[![azure](https://dev.azure.com/bunjee/snap/_apis/build/status/omega-gg.snap)](https://dev.azure.com/bunjee/snap/_build)
+
 # [Sky](https://github.com/omega-gg/Sky)
 [![azure](https://dev.azure.com/bunjee/Sky/_apis/build/status/omega-gg.Sky)](https://dev.azure.com/bunjee/Sky/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/86v4f4gv95u68w18?svg=true)](https://ci.appveyor.com/project/3unjee/sky)

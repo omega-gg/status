@@ -3,6 +3,8 @@
 
 # [assets](https://github.com/omega-gg/assets)
 
+# [assets-pro](https://github.com/omega-gg/assets-pro)
+
 # [snap](https://github.com/omega-gg/snap)
 [![azure](https://dev.azure.com/bunjee/snap/_apis/build/status/omega-gg.snap)](https://dev.azure.com/bunjee/snap/_build)
 

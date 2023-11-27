@@ -41,12 +41,10 @@
 
 # [backend](https://github.com/omega-gg/backend)
 
-# [HEVR](https://github.com/omega-gg/HEVR)
-[![azure](https://dev.azure.com/bunjee/HEVR/_apis/build/status/omega-gg.HEVR)](https://dev.azure.com/bunjee/HEVR/_build)
-[![appveyor](https://ci.appveyor.com/api/projects/status/xmh6c5oa6dbflbta?svg=true)](https://ci.appveyor.com/project/3unjee/hevr)
-
 # [libtorrent build](https://github.com/omega-gg/libtorrent)
 [![azure](https://dev.azure.com/bunjee/libtorrent/_apis/build/status/omega-gg.libtorrent)](https://dev.azure.com/bunjee/libtorrent/_build)
+
+# [PeerTube](https://github.com/omega-gg/PeerTube)
 
 # [QuickWindow](https://github.com/3unjee/QuickWindow)
 [![azure](https://dev.azure.com/bunjee/QuickWindow/_apis/build/status/3unjee.QuickWindow)](https://dev.azure.com/bunjee/QuickWindow/_build)

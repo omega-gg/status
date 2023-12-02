@@ -45,6 +45,7 @@
 [![azure](https://dev.azure.com/bunjee/libtorrent/_apis/build/status/omega-gg.libtorrent)](https://dev.azure.com/bunjee/libtorrent/_build)
 
 # [PeerTube](https://github.com/omega-gg/PeerTube)
+[![azure](https://dev.azure.com/bunjee/PeerTube/_apis/build/status/omega-gg.PeerTube)](https://dev.azure.com/bunjee/PeerTube/_build)
 
 # [QuickWindow](https://github.com/3unjee/QuickWindow)
 [![azure](https://dev.azure.com/bunjee/QuickWindow/_apis/build/status/3unjee.QuickWindow)](https://dev.azure.com/bunjee/QuickWindow/_build)

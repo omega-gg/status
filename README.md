@@ -34,6 +34,11 @@
 # [tevolution](https://github.com/omega-gg/tevolution)
 [![azure](https://dev.azure.com/bunjee/tevolution/_apis/build/status/omega-gg.tevolution)](https://dev.azure.com/bunjee/tevolution/_build)
 
+# [tevo](https://github.com/omega-gg/tevo)
+[![azure](https://dev.azure.com/bunjee/tevo/_apis/build/status/omega-gg.tevo)](https://dev.azure.com/bunjee/tevo/_build)
+[![appveyor](https://ci.appveyor.com/api/projects/status/nc4cf1k90abftiyj?svg=true)](https://ci.appveyor.com/project/3unjee/tevo)
+[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+
 # [clientVBML](https://github.com/omega-gg/clientVBML)
 [![azure](https://dev.azure.com/bunjee/clientVBML/_apis/build/status/omega-gg.clientVBML)](https://dev.azure.com/bunjee/clientVBML/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/nc4cf1k90abftiyj?svg=true)](https://ci.appveyor.com/project/3unjee/clientVBML)

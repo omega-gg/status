@@ -61,6 +61,9 @@
 # [PeerTube](https://github.com/omega-gg/PeerTube)
 [![azure](https://dev.azure.com/bunjee/PeerTube/_apis/build/status/omega-gg.PeerTube)](https://dev.azure.com/bunjee/PeerTube/_build)
 
+# [spark](https://github.com/omega-gg/spark)
+[![azure](https://dev.azure.com/bunjee/spark/_apis/build/status/omega-gg.spark)](https://dev.azure.com/bunjee/spark/_build)
+
 # [QuickWindow](https://github.com/3unjee/QuickWindow)
 [![azure](https://dev.azure.com/bunjee/QuickWindow/_apis/build/status/3unjee.QuickWindow)](https://dev.azure.com/bunjee/QuickWindow/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/d553ojt2rtj39jhh?svg=true)](https://ci.appveyor.com/project/3unjee/quickwindow)

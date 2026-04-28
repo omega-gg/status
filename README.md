@@ -20,8 +20,6 @@
 [![appveyor](https://ci.appveyor.com/api/projects/status/yto6yi6aepvvl805?svg=true)](https://ci.appveyor.com/project/3unjee/Sky-runtime)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
-# [Sky-runtime-dev](https://github.com/omega-gg/Sky-runtime-dev)
-
 # [HelloConsole](https://github.com/omega-gg/HelloConsole)
 [![azure](https://dev.azure.com/bunjee/HelloConsole/_apis/build/status/omega-gg.HelloConsole)](https://dev.azure.com/bunjee/HelloConsole/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/icchdtfxdhi32vmr?svg=true)](https://ci.appveyor.com/project/3unjee/HelloConsole)
@@ -52,6 +50,9 @@
 [![azure](https://dev.azure.com/bunjee/clientVBML/_apis/build/status/omega-gg.clientVBML)](https://dev.azure.com/bunjee/clientVBML/_build)
 [![appveyor](https://ci.appveyor.com/api/projects/status/nc4cf1k90abftiyj?svg=true)](https://ci.appveyor.com/project/3unjee/clientVBML)
 [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+
+# [hypergonar](https://github.com/omega-gg/hypergonar)
+# [turbopixel](https://github.com/omega-gg/turbopixel)
 
 # [backend](https://github.com/omega-gg/backend)
 
